@@ -1,0 +1,7 @@
+Project Specification
+Simulating Operating System Processing Scheduling Algorithms
+
+Files shows are First-Come First-Served (All have zero arrival times), First-Come First-Served (Different Arrival Times)
+and the Round Robin.
+
+All algorithms are implemented in Python3.
